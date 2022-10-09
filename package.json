@@ -1,5 +1,5 @@
 {
-  "name": "@bkt/progress",
+  "name": "@bnmkt/progress",
   "version": "0.0.1",
   "description": "A simple progress bar generator using Fira Code Font unicode characters",
   "main": "public/core.js",
@@ -17,5 +17,14 @@
   "devDependencies": {
     "@types/node": "^18.8.3",
     "typescript": "^4.8.4"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bnmkt/progressbar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Bnmkt/progressbar/issues"
+  },
+  "homepage": "https://github.com/Bnmkt/progressbar#readme"
 }
