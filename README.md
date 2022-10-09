@@ -47,4 +47,8 @@ Custom progress bar using [Fira Code](https://github.com/tonsky/FiraCode)
 ## Requirements
 
 - [Fira Code](https://github.com/tonsky/FiraCode)
-- 
+
+
+## Result
+![Result of progress.simulate](https://user-images.githubusercontent.com/17219872/194744115-dc903817-6d73-4fe7-ac62-7723fe09fe0b.gif)
+
